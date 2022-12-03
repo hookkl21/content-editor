@@ -11,6 +11,10 @@ html {
 a {
   text-decoration: none;
 }
+article {
+  font-size: 18px;
+  line-height: 1.6;
+}
 #loading {
   width: 100vw;
   height: 100vh;
@@ -144,6 +148,8 @@ a {
 #about {
   margin: 3vh 0px !important;
   padding: 2vh 0px !important;
+  font-size: 20px;
+  line-height: 1.8;
 }
 #contact {
   margin: 4vh 20px !important;
