@@ -196,10 +196,11 @@ article {
   color: #fff;
 }
 .project {
-  width: 50%;
+  width: 48%;
+  margin: 20px;
   display: flex;
   flex-direction: column;
-  justify-content: flex-end;
+  justify-content: center;
   align-items: center;
 }
 .project-container {
@@ -247,13 +248,16 @@ article {
 }
 #details {
   margin: 6vh 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .btn_social {
   font-size: 18px;
   color: #fff;
   margin: 40px 20px;
   padding: 15px 18px;
-  border-radius: 50%;
+  border-radius: 10px;
   background: #000;
   transition: 0.4s ease-in-out;
 }
@@ -317,7 +321,7 @@ article {
   .btn_social {
     font-size: 14px;
     margin: 10px;
-    padding: 10px 11px;
+    padding: 10px 10px;
   }
 }
 #footer {
