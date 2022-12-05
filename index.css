@@ -140,6 +140,7 @@ article {
 }
 .column-container {
   display: flex;
+  width: 100%;
   justify-content: center;
   align-items: center;
   flex-direction: column;
@@ -156,7 +157,7 @@ article {
 }
 #contact {
   margin: 4vh 20px !important;
-  padding: 2vh 0px !important;
+  padding: 2vh 20px !important;
 }
 #contact form {
   width: 100%;
